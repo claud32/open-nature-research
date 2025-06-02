@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 
@@ -92,7 +92,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: lab.jpg
           filters:
             brightness: 1
           parallax: false
