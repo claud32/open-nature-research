@@ -1,5 +1,5 @@
 ---
-title: Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling
+title: "Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling"
 date: 2025-05-01
 image:
   focal_point: 'top'

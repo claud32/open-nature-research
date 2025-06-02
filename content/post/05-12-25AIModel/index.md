@@ -1,5 +1,5 @@
 ---
-title: Unveiling the Exploration-Based Teaching Model: An AI-Driven Framework for Active Learning
+title: "Unveiling the Exploration-Based Teaching Model: An AI-Driven Framework for Active Learning"
 date: 2025-05-12
 image:
   focal_point: 'top'
