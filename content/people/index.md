@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-05-01
 
 type: landing
 
@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
+          - Specialists
           - Grad Students
           - Administration
           - Visitors

@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-05-01
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Open
+        Nature Research
       image:
-        filename: welcome.jpg
+        filename: computerGroup.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Open Nature Research** is dedicated to advancing innovation in AI and physics. We aim to expand scientific understanding by conducting open, interdisciplinary research and share findings that benefit education, collaboration, and the public good.
   
   - block: collection
     content:

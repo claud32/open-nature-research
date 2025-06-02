@@ -1,16 +1,22 @@
 ---
-title: "An example journal article"
+title: "An Economical Scheme for Cloning an Unknown M-Qudit Equatorial-Like State with Assistance"
 authors:
-- admin
-- Robert Ford
+- Bo Pang
+- Chen Xiu-Bo
+- Ma Song-Ya
+- Yang Yi-Xian
+- Wen Qiao-Yan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2010-06-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2010-06-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +24,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Communications in Theoretical Physics, 53*(6)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We propose a scheme to realize quantum cloning of an unknown M-qudit equatorial-like entangled state. The first stage of the protocol requires teleportation. After the teleportation is accomplished, the receiver can reestablish the original state. In the second stage of the protocol, with the assistance (through a single-particle projective measurement) of the preparer, the perfect copy of an original state can be produced at the site of the sender. Our scheme requires a single maximally entangled qudit pair as the quantum channel and three dits classical communication. The scheme is feasible at the expense of consuming local resources which include M − 1 ancillary qudits introduced by the receiver and additional bi-qudit operations. Moreover, we construct a sort of unitary transformations which ensure ancillary qudits are not necessarily introduced by the sender. Comparing to the previous protocols, the proposed protocol is economical due to that the cost of both quantum nonlocal resources and classical communication is lowest.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
-- Source Themes
+- Physics
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://ctp.itp.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=12206
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -61,15 +67,11 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to cite this paper.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+{{< gdocs src="https://drive.google.com/file/d/1JoR6adDbjAH-P0rskLh9U5ScynbvmAy8/preview" >}}
