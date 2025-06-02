@@ -1,5 +1,5 @@
 ---
-title: Introducing the Natural Science AI Teacher - An Immersive, Empathetic Tutor for High School Science
+title: Introducing the Natural Science AI Teacher: An Immersive, Empathetic Tutor for High School Science
 date: 2025-05-22
 image:
   focal_point: 'top'

@@ -1,11 +1,11 @@
 ---
-title: Introducing Full-Attributes Objects - A Dynamic Framework for Modular Object Modeling
+title: Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling
 date: 2025-05-01
 image:
   focal_point: 'top'
 ---
 
-Open Nature Research is delighted to unveil “Full-Attributes Objects,” a novel paradigm for defining and managing entities whose properties automatically adapt as they merge or divide. This versatile framework provides a robust foundation for building complex systems from simple components, ensuring consistency and real-time updates across all scales.
+Open Nature Research is delighted to unveil **“Full-Attributes Objects,”** a novel paradigm for defining and managing entities whose properties automatically adapt as they merge or divide. This versatile framework provides a robust foundation for building complex systems from simple components, ensuring consistency and real-time updates across all scales.
 
 <!--more-->
 
