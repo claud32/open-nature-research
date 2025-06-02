@@ -5,6 +5,18 @@ date: 2025-05-01
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+        Open
+        Nature Research
+      image:
+        filename: computerGroup.jpg
+      text: |
+        <br>
+        
+        **Open Nature Research** is dedicated to advancing innovation in AI and physics. We aim to expand scientific understanding by conducting open, interdisciplinary research and share findings that benefit education, collaboration, and the public good.
+  
   - block: slider
       content:
         slides:
@@ -51,18 +63,7 @@ sections:
         loop: true
         # Duration of transition between slides (in ms)
         interval: 2000
-  - block: hero
-    content:
-      title: |
-        Open
-        Nature Research
-      image:
-        filename: computerGroup.jpg
-      text: |
-        <br>
-        
-        **Open Nature Research** is dedicated to advancing innovation in AI and physics. We aim to expand scientific understanding by conducting open, interdisciplinary research and share findings that benefit education, collaboration, and the public good.
-  
+
   - block: collection
     content:
       title: Latest News
