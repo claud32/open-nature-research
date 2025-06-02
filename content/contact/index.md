@@ -21,7 +21,7 @@ sections:
         country_code: US
       coordinates:
         latitude: '37.924303'
-        longitude: '-122.314516' #保留小数点后四位如果不work
+        longitude: '-122.314516'
       directions: Enter Building and take the stairs to STE 106 on Floor 1
       #contact_links:
       #  - icon: comments

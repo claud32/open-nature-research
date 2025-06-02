@@ -2,12 +2,15 @@
 # Display name
 title: Zheng Guo
 
+
 # Full Name (for SEO)
 first_name: Zheng
 last_name: Guo
 
+
 # Is this the primary user of the site?
 superuser: false
+
 
 # Role/position
 role: Information Technology Specialist
@@ -61,3 +64,6 @@ user_groups:
 ---
 
 Zheng Guo is an information technology specialist at Open Nature Research. He oversees system performance, resolves IT issues, and manages hardware and software installations. Zheng also contributes to website maintenance and system design improvements. Passionate about emerging technologies, he stays up to date with industry trends and ensures the organization’s tech infrastructure supports research and innovation in AI and physics.
+
+
+
