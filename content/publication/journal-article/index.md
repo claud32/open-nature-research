@@ -1,7 +1,7 @@
 ---
 title: "An Economical Scheme for Cloning an Unknown M-Qudit Equatorial-Like State with Assistance"
 authors:
-- Bo Pang
+- BoPang
 - Chen Xiu-Bo
 - Ma Song-Ya
 - Yang Yi-Xian
