@@ -38,14 +38,14 @@ sections:
   
   - block: markdown
     content:
-      title: 
+      title:
       subtitle: ''
-      text: 
+      text:
     design:
       columns: '1'
       background:
         image: 
-          filename: lab.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
