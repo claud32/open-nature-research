@@ -85,9 +85,9 @@ sections:
   
   - block: markdown
     content:
-      title: See how it goes with this
-      subtitle: 'See how it goes with this'
-      text: See how it goes with this
+      title: 
+      subtitle: ''
+      text: 
     design:
       columns: '1'
       background:
