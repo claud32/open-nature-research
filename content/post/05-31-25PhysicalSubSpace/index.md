@@ -1,5 +1,5 @@
 ---
-title: Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics
+title: Introducing the 3D Physical SubSpace Architecture - A Unified Framework Bridging All Scales of Physics
 date: 2025-05-31
 ---
 
