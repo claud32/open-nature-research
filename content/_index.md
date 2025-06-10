@@ -122,7 +122,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: lab.jpg
+          filename: lab.png
           filters:
             brightness: 1
           parallax: true
@@ -164,23 +164,23 @@ sections:
           text_color_light: true
 
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: Afflication.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-      css_class: full-viewport-width
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: Afflication.png
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: contain
+  #         text_color_light: true
+  #     css_class: full-viewport-width
 
   - block: markdown
     content:
@@ -199,6 +199,7 @@ sections:
           size: contain
           text_color_light: true
       css_class: full-viewport-width
-
+      spacing:
+        padding: ['0', '0', '0', '0']
   
 ---
