@@ -164,7 +164,7 @@ sections:
           text_color_light: true
       spacing:
         margin: ['0', '0', '0', '0']
-        
+
   - block: markdown
     content:
       title:
@@ -181,27 +181,27 @@ sections:
           position: center
           size: contain
           text_color_light: true
-      css_class: full-viewport-width
+        css_class: full-viewport-width
       spacing:
         margin: ['0', '0', '0', '0']
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: Afflication.png
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: contain
-  #         text_color_light: true
-  #     css_class: full-viewport-width
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: Afflication.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain
+          text_color_light: true
+        css_class: full-viewport-width
 
 
   
