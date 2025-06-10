@@ -23,7 +23,7 @@ abstract: California has faced increasingly devastating wildfires over the past 
 summary: 
 
 tags:
-- Source Themes
+- Artificial Intelligence
 featured: false
 
 links:
@@ -39,7 +39,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Aditya Shah**](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WILDFIRES_KEYWORD_IMAGE.width-1000.format-webp.webp)'
+  caption: 'Image credit: [**Aditya Shah**](https://blog.google/technology/ai/fighting-fire-machine-learning-two-students-use-tensorflow-predict-wildfires/)'
   focal_point: ""
   preview_only: false
 
@@ -56,7 +56,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
