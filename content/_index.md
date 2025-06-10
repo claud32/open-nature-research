@@ -8,16 +8,22 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics
+        content: Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: SubSpace.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: arrow-right-circle
+          icon_pack: hero
+          text: Read More
+          url: ../news/05-31-25physicalsubspace/
+
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
@@ -55,10 +61,9 @@ sections:
   - block: hero
     content:
       title: |
-        Open
-        Nature Research
+        About Us
       image:
-        filename: computerGroup.jpg
+        filename: AboutUSjpg.jpg
       text: |
         <br>
         
@@ -124,4 +129,47 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: Afflication.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: GroupContact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+
+  
 ---
