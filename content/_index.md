@@ -10,45 +10,67 @@ sections:
       slides:
       - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
         content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
-        align: right
+        align: left
         background:
           image:
             filename: SubSpace.jpg
             filters:
               brightness: 0.7
-          position: left
+          position: center
           color: '#666'
         link:
-          icon: arrow-right-circle
-          icon_pack: hero
+          icon: hero/arrow-right-circle
+          # icon_pack: 
           text: Read More
           url: post/05-31-25physicalsubspace/
 
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: "Introducing the Natural Science AI Teacher: An Immersive, Empathetic Tutor for High School Science"
+        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher,”** a next-generation, multimodal AI platform designed to revolutionize learning for 16–18-year-old students in physics, biology, and chemistry. This innovative system combines advanced audio-visual processing, natural-language understanding, adaptive memory, and empathetic interaction to create a fully interactive lab-style classroom experience.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: AITeacher.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+        link:
+          icon: hero/arrow-right-circle
+          # icon_pack: 
+          text: Read More
+          url: post/05-22-25AITeacher/
+
+      - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
+        content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: TeachingModel.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
-          color: '#333'
+          color: '#666'
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          icon: hero/arrow-right-circle
+          # icon_pack: 
+          text: Read More
+          url: post/05-31-25AIModel/
+
+      - title: "Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling"
+        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects,”** a novel paradigm for defining and managing entities whose properties automatically adapt as they merge or divide. This versatile framework provides a robust foundation for building complex systems from simple components, ensuring consistency and real-time updates across all scales.'
+        align: left
+        background:
+          image:
+            filename: FullAtrr.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+        link:
+          icon: hero/arrow-right-circle
+          # icon_pack: 
+          text: Read More
+          url: post/05-01-25FullAttributesObjects/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -90,7 +112,7 @@ sections:
           filename: lab.jpg
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: cover
           text_color_light: true
@@ -163,7 +185,7 @@ sections:
           filename: GroupContact.png
           filters:
             brightness: 1
-          parallax: true
+          parallax: false
           position: center
           size: contain
           text_color_light: true
