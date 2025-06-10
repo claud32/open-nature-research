@@ -143,13 +143,14 @@ sections:
           filename: Afflication.png
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: contain
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
-  
+      css_class: fullscreen
+
   - block: markdown
     content:
       title:
@@ -162,13 +163,13 @@ sections:
           filename: GroupContact.png
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: contain
           text_color_light: true
       spacing:
-        padding: ['0', '0', '0', '0']
-
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   
 ---
