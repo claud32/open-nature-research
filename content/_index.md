@@ -148,6 +148,25 @@ sections:
   - block: markdown
     content:
       title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: Afflication.png
+          filters:
+            brightness: 1
+          parallax: false
+          size: cover
+          position: center
+          text_color_light: true
+      css_class: fullscreen
+      # css_class: full-viewport-width
+
+  - block: markdown
+    content:
+      title:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
@@ -184,23 +203,7 @@ sections:
   #     spacing:
   #       margin: ['0', '0', '0', '0']
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: Afflication.png
-          filters:
-            brightness: 1
-          parallax: false
-          size: cover
-          position: center
-          text_color_light: true
-      css_class: full-viewport-width
+
 
   
 ---
