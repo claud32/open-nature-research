@@ -122,7 +122,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: lab.png
+          filename: lab.jpg
           filters:
             brightness: 1
           parallax: true
@@ -162,7 +162,9 @@ sections:
           position: center
           size: contain
           text_color_light: true
-
+      spacing:
+        margin: ['0', '0', '0', '0']
+        
   - block: markdown
     content:
       title:
