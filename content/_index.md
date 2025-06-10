@@ -54,10 +54,10 @@ sections:
           icon: hero/arrow-right-circle
           # icon_pack: 
           text: Read More
-          url: post/05-31-25aimodel/
+          url: post/05-12-25aimodel/
 
       - title: "Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling"
-        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects,”**'
+        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects”**'
         align: left
         background:
           image:
@@ -153,6 +153,15 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      background:
+        image: 
+          filename: BlueBox.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain
+          text_color_light: true
   
   - block: markdown
     content:
@@ -171,8 +180,8 @@ sections:
           size: contain
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: ''
+        padding: ['-20px', '0', '-20px', '0']
+      css_class: fullscreen
 
   - block: markdown
     content:
@@ -191,8 +200,8 @@ sections:
           size: contain
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: ''
+        padding: ['-20px', '0', '-20px', '0']
+      css_class: fullscreen
 
   
 ---
