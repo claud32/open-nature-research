@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
-        content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
+      - title: "The 3D Physical SubSpace Architecture"
+        content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture,”** a unified framework bridging all scales of physics'
         align: left
         background:
           image:
@@ -24,8 +24,8 @@ sections:
           text: Read More
           url: post/05-31-25physicalsubspace/
 
-      - title: "Introducing the Natural Science AI Teacher: An Immersive, Empathetic Tutor for High School Science"
-        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher”**'
+      - title: "The Natural Science AI Teacher"
+        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher,”** an immersive, empathetic tutor for high school science'
         align: left
         background:
           image:
@@ -40,8 +40,8 @@ sections:
           text: Read More
           url: post/05-22-25aiteacher/
 
-      - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
-        content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
+      - title: "Unveiling the Exploration-Based Teaching Model: An AI-Driven Framework for Active Learning"
+        content: 'Open Nature Research is thrilled to announce the launch of the **Exploration-Based Teaching Model**, a pioneering AI framework designed to transform how students engage with complex subjects.'
         align: left
         background:
           image:
@@ -56,8 +56,8 @@ sections:
           text: Read More
           url: post/05-12-25aimodel/
 
-      - title: "Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling"
-        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects”**'
+      - title: "Introducing Full-Attributes Objects"
+        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects,”** a dynamic framework for modular object modeling'
         align: left
         background:
           image:
@@ -67,8 +67,8 @@ sections:
           position: center
           color: '#666'
         link:
-          icon: hero/arrow-right-circle
-          # icon_pack: 
+          icon: arrow-right-circle
+          icon_pack: hero
           text: Read More
           url: post/05-01-25fullattributesobjects/
     design:

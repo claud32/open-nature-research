@@ -63,4 +63,4 @@ slides: ""
 Click the *Cite* button above to cite this paper.
 {{% /callout %}}
 
-{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vQJSCcPPK5HP7LjM3pvKOW92msCNHpOVMOTpWgTSiYf5OGWmC9l-DoeQO33QiTO7h1Gp_mcVx7TZpva/pub?embedded=true" >}}
+{{< gdocs src="https://drive.google.com/file/d/1wOPY__zobPdG4ara13K_V-LlnAPxjyHd/view?usp=sharing" >}}
