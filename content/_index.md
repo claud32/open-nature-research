@@ -25,7 +25,7 @@ sections:
           url: post/05-31-25physicalsubspace/
 
       - title: "Introducing the Natural Science AI Teacher: An Immersive, Empathetic Tutor for High School Science"
-        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher,”** a next-generation, multimodal AI platform designed to revolutionize learning for 16–18-year-old students in physics, biology, and chemistry. This innovative system combines advanced audio-visual processing, natural-language understanding, adaptive memory, and empathetic interaction to create a fully interactive lab-style classroom experience.'
+        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher,”**'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
           icon: hero/arrow-right-circle
           # icon_pack: 
           text: Read More
-          url: post/05-22-25AITeacher/
+          url: post/05-22-25aiteacher/
 
       - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
         content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
@@ -54,10 +54,10 @@ sections:
           icon: hero/arrow-right-circle
           # icon_pack: 
           text: Read More
-          url: post/05-31-25AIModel/
+          url: post/05-31-25aimodel/
 
       - title: "Introducing Full-Attributes Objects: A Dynamic Framework for Modular Object Modeling"
-        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects,”** a novel paradigm for defining and managing entities whose properties automatically adapt as they merge or divide. This versatile framework provides a robust foundation for building complex systems from simple components, ensuring consistency and real-time updates across all scales.'
+        content: 'Open Nature Research is delighted to unveil **“Full-Attributes Objects,”**'
         align: left
         background:
           image:
@@ -70,7 +70,7 @@ sections:
           icon: hero/arrow-right-circle
           # icon_pack: 
           text: Read More
-          url: post/05-01-25FullAttributesObjects/
+          url: post/05-01-25fullattributesobjects/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -81,25 +81,38 @@ sections:
       interval: 2000
 
 
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
+  
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
+      title: Latest Preprints
+      text: ""
       count: 5
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        folders:
+          - publication
+        publication_type: 'article'
     design:
-      view: card
+      view: citation
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -120,18 +133,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: hero
     content:
@@ -165,13 +166,13 @@ sections:
           filename: Afflication.png
           filters:
             brightness: 1
-          parallax: true
+          parallax: false
           position: center
           size: contain
           text_color_light: true
       spacing:
-        padding: ['0', '0', '0', '0']
-      css_class: fullscreen
+        padding: ['20px', '0', '20px', '0']
+      css_class: ''
 
   - block: markdown
     content:
@@ -191,7 +192,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: ''
 
   
 ---
