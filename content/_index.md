@@ -164,25 +164,25 @@ sections:
           text_color_light: true
       # css_class: fullscreen
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: GroupContact.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-      css_class: full-viewport-width
-      spacing:
-        margin: ['0', '0', '0', '0']
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: GroupContact.png
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: contain
+  #         text_color_light: true
+  #     css_class: full-viewport-width
+  #     spacing:
+  #       margin: ['0', '0', '0', '0']
 
   - block: markdown
     content:
@@ -197,10 +197,10 @@ sections:
           filters:
             brightness: 1
           parallax: false
+          size: cover
           position: center
           text_color_light: true
       css_class: full-viewport-width
-
 
   
 ---
