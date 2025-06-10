@@ -1,15 +1,3 @@
 .full-viewport-width {
-  position: relative;
   width: 100vw;             /* 占满整个浏览器宽度 */
-  left: 50%;
-  margin-left: -50vw;
-  
-  /* 不指定具体高度，让内容自动撑高；若需固定高度，可用如 min-height: 50vh */
-  height: 100%;
-  
-  /* 背景图覆盖元素完整区域，不留白 */
-  background-repeat: repeat;
-  background-position: center center;
-  background-size: cover;
-  box-sizing: border-box;
 }
