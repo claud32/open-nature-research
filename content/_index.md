@@ -181,7 +181,7 @@ sections:
           position: center
           size: contain
           text_color_light: true
-        css_class: full-viewport-width
+      css_class: full-viewport-width
       spacing:
         margin: ['0', '0', '0', '0']
 
@@ -201,7 +201,7 @@ sections:
           position: center
           size: contain
           text_color_light: true
-        css_class: full-viewport-width
+      css_class: full-viewport-width
 
 
   
