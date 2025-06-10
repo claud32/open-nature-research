@@ -1,3 +1,14 @@
+
 .full-viewport-width {
-  width: 100vw;             /* 占满整个浏览器宽度 */
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+
+  height: 100%; /* 或 min-height: 100vh; 让其至少填满可视高度 */
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto 100%; /* 高度填满 100%，宽度按比例缩放 :contentReference[oaicite:1]{index=1} */
 }
+
