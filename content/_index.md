@@ -16,13 +16,13 @@ sections:
             filename: SubSpace.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: left
           color: '#666'
         link:
-          icon: hero/arrow-right-circle
+          icon: arrow-right-circle
           icon_pack: hero
           text: Read More
-          url: ../post/05-31-25physicalsubspace/
+          url: post/05-31-25physicalsubspace/
 
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -149,7 +149,6 @@ sections:
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
-      css_class: fullscreen
   
   - block: markdown
     content:
@@ -169,7 +168,6 @@ sections:
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
-      css_class: fullscreen
 
 
   

@@ -13,7 +13,7 @@ superuser: false
 
 
 # Role/position
-role: AI Modeling Scientist and Data Strategy Manager
+role: Researcher, AI Modeling Scientist, Data Strategy Manager
 
 
 # Organizations/Affiliations
@@ -49,7 +49,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 Social:
-  - icon: brands/linkedin
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yiting.ji@open-nature.com'
+  - icon: linkedin
     icon_pack: brands
     link: https://www.linkedin.com/in/yiting-ji-302168a6/
 
@@ -75,6 +78,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  - Administration
 ---
 
 
