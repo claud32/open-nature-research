@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics
-        content: Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**
+        content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
         align: center
         background:
           image:
