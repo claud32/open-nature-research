@@ -163,7 +163,7 @@ sections:
           size: contain
           text_color_light: true
       spacing:
-        margin: ['0', '0', '0', '0']
+        margin: ['-20px', '0', '-20px', '0']
 
   - block: markdown
     content:
@@ -199,7 +199,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: actual
+          size: cover
           text_color_light: true
       css_class: full-viewport-width
 
