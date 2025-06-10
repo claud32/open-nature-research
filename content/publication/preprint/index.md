@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Combating California’s Wildfire using Modern Technologies "
 authors:
-- ZhengGuo
-date: "2019-04-07T00:00:00Z"
+- BoPang
+date: "2025-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-06-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,20 +17,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: California has faced increasingly devastating wildfires over the past two decades, with 2018 alone seeing nearly 1.8 million acres of land burned and billions of dollars in damages. As climate conditions worsen, traditional fire prevention and response methods are proving insufficient. This paper explores the role of emerging technologies in preventing, detecting, and responding to wildfires in California. Key innovations include wireless sensor networks that monitor environmental conditions such as carbon dioxide levels, temperature, and humidity to predict fire risks. Additionally, replacing overhead power lines—identified as a major ignition source—with underground or road-embedded alternatives is examined as a proactive solution. Early detection strategies are also discussed, particularly the use of drones equipped with infrared imaging and fire-detecting software to monitor vast areas in real-time. The integration of social media and mobile applications for civilian communication and emergency response coordination is proposed to enhance public engagement and situational awareness. By harnessing California’s technological infrastructure, especially the innovation power of Silicon Valley, these modern solutions present a feasible and necessary path forward in mitigating the catastrophic impact of wildfires. The paper concludes that gradual implementation of these technologies, alongside public education and regulatory support, is vital for sustainable wildfire management.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://drive.google.com/file/d/1wOPY__zobPdG4ara13K_V-LlnAPxjyHd/view?usp=sharing
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -41,7 +39,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Aditya Shah**](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WILDFIRES_KEYWORD_IMAGE.width-1000.format-webp.webp)'
   focal_point: ""
   preview_only: false
 
@@ -61,8 +59,10 @@ projects:
 slides: example
 ---
 
+---
+
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Click the *Cite* button above to cite this paper.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vQJSCcPPK5HP7LjM3pvKOW92msCNHpOVMOTpWgTSiYf5OGWmC9l-DoeQO33QiTO7h1Gp_mcVx7TZpva/pub?embedded=true" >}}

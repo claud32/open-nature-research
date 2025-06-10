@@ -161,8 +161,8 @@ sections:
           size: cover
           position: center
           text_color_light: true
-      css_class: fullscreen
-      # css_class: full-viewport-width
+      # css_class: fullscreen
+      css_class: full-viewport-width
 
   - block: markdown
     content:
