@@ -139,7 +139,7 @@ sections:
       title: |
         About Us
       image:
-        filename: AboutUSjpg.jpg
+        filename: AboutUS.jpg
       text: |
         <br>
         
@@ -162,7 +162,10 @@ sections:
           position: center
           size: contain
           text_color_light: true
-  
+      spacing:
+        padding: ['0', '0', '0', '0']
+
+
   - block: markdown
     content:
       title:
@@ -181,7 +184,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['-20px', '0', '-20px', '0']
-      css_class: fullscreen
+      css_class: full-viewport-width
 
   - block: markdown
     content:
@@ -201,7 +204,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['-20px', '0', '-20px', '0']
-      css_class: fullscreen
+      css_class: full-viewport-width
 
   
 ---
