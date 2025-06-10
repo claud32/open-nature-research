@@ -175,7 +175,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Afflication.png
+          filename: Afflication.jpg
           filters:
             brightness: 1
           parallax: false
@@ -195,7 +195,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: GroupContact.png
+          filename: GroupContact.jpg
           filters:
             brightness: 1
           parallax: false
