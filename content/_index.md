@@ -179,7 +179,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       css_class: full-viewport-width
       spacing:
@@ -199,7 +199,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: actual
           text_color_light: true
       css_class: full-viewport-width
 
