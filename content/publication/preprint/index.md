@@ -1,5 +1,5 @@
 ---
-title: "Combating California’s Wildfire using Modern Technologies "
+title: "Combating California’s Wildfire using Modern Technologies"
 authors:
 - BoPang
 date: "2025-06-09T00:00:00Z"

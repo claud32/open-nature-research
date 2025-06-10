@@ -25,7 +25,7 @@ sections:
           url: post/05-31-25physicalsubspace/
 
       - title: "Introducing the Natural Science AI Teacher: An Immersive, Empathetic Tutor for High School Science"
-        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher,”**'
+        content: 'Open Nature Research is excited to unveil **“Natural Science AI Teacher”**'
         align: left
         background:
           image:
@@ -108,7 +108,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: ["article", "article-journal"]
     design:
       view: citation
       columns: '1'
