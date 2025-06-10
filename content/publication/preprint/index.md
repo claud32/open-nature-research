@@ -29,12 +29,12 @@ featured: false
 links:
 url_pdf: https://drive.google.com/file/d/1wOPY__zobPdG4ara13K_V-LlnAPxjyHd/view?usp=sharing
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,8 +57,6 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
-
 ---
 
 {{% callout note %}}
