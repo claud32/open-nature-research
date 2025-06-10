@@ -7,7 +7,7 @@
 
   height: 100%; /* 或 min-height: 100vh; 让其至少填满可视高度 */
 
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center center;
   background-size: auto 100%; /* 高度填满 100%，宽度按比例缩放 :contentReference[oaicite:1]{index=1} */
 }

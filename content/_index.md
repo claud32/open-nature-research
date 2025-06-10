@@ -160,10 +160,9 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           text_color_light: true
-      spacing:
-        margin: ['-20px', '0', '-20px', '0']
+      # css_class: fullscreen
 
   - block: markdown
     content:
