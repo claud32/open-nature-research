@@ -75,10 +75,11 @@ user_groups:
 ---
 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bo Pang is a researcher working at the intersection of physics, computer graphics, and artificial intelligence. He holds a bachelor’s degree from Beijing University of Posts and Telecommunications and a master’s degree from Northeastern University.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His current research centers on 3D physical subspace architectures and the mitigation of AI hallucinations in reasoning tasks. Drawing from physical modeling and cognitive architectures, Bo aims to develop AI systems that integrate symbolic logic with generative learning to achieve more trustworthy and interpretable outputs.
+
 
 
 

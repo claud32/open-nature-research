@@ -10,7 +10,7 @@ sections:
       slides:
       - title: "Introducing the 3D Physical SubSpace Architecture: A Unified Framework Bridging All Scales of Physics"
         content: 'Open Nature Research is proud to announce the release of a groundbreaking new framework **“3D Physical SubSpace Architecture”**'
-        align: center
+        align: right
         background:
           image:
             filename: SubSpace.jpg
@@ -19,10 +19,10 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: arrow-right-circle
+          icon: hero/arrow-right-circle
           icon_pack: hero
           text: Read More
-          url: ../news/05-31-25physicalsubspace/
+          url: ../post/05-31-25physicalsubspace/
 
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -58,16 +58,6 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
-  - block: hero
-    content:
-      title: |
-        About Us
-      image:
-        filename: AboutUSjpg.jpg
-      text: |
-        <br>
-        
-        **Open Nature Research** is dedicated to advancing innovation in AI and physics. We aim to expand scientific understanding by conducting open, interdisciplinary research and share findings that benefit education, collaboration, and the public good.
 
   - block: collection
     content:
@@ -121,6 +111,17 @@ sections:
       view: citation
       columns: '1'
 
+  - block: hero
+    content:
+      title: |
+        About Us
+      image:
+        filename: AboutUSjpg.jpg
+      text: |
+        <br>
+        
+        **Open Nature Research** is dedicated to advancing innovation in AI and physics. We aim to expand scientific understanding by conducting open, interdisciplinary research and share findings that benefit education, collaboration, and the public good.
+
   - block: markdown
     content:
       title:
@@ -144,10 +145,10 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['0', '0', '0', '0']
       css_class: fullscreen
   
   - block: markdown
@@ -164,10 +165,10 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['0', '0', '0', '0']
       css_class: fullscreen
 
 
