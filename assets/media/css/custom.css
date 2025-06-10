@@ -1,4 +1,8 @@
 .full-viewport-width {
+  position: relative;
   width: 100vw;
-  max-width: none; 
+  left: 50%;
+  margin-left: -50vw;
+  height: 100%;
+  box-sizing: border-box;
 }
