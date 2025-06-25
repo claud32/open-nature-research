@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-05-16T16:43:00Z'
 
-authors: ["Zheng Guo"]
+authors: ["Bo Pang"]
 tags: ["Computer Vision", "Artificial Intelligence"]
 
 # Is this a featured talk? (true/false)
