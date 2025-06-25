@@ -1,7 +1,7 @@
 ---
 title: Big Data, Data Science & Machine Learning 2026
 
-event: CVPR
+event: Big Data, Data Science & Machine Learning 2026
 event_url: https://datascience-machinelearning.averconferences.com/
 
 location: Orlando, FL, USA
@@ -13,9 +13,9 @@ address:
   country: United States
 
 summary: Big Data & Machine Learning in unique & innovative ways
-abstract: On behalf of the Organizing Committee, we are ecstatic to invite you to “5th Tech Summit on Big Data, Data Science & Machine Learning”.
+abstract: 'On behalf of the Organizing Committee, we are ecstatic to invite you to “5th Tech Summit on Big Data, Data Science & Machine Learning”.
 
-We organize conferences by offering best platform to all academicians, researchers and industry professionals. Conference will be scheduled on wide range of topics and it will be helpful for scientific fraternity to be connected while staying at their preferred place. Join the Conference organized by us and let the world know about your research and innovation.
+We organize conferences by offering best platform to all academicians, researchers and industry professionals. Conference will be scheduled on wide range of topics and it will be helpful for scientific fraternity to be connected while staying at their preferred place. Join the Conference organized by us and let the world know about your research and innovation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
