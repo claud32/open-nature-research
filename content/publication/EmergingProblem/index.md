@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://drive.google.com/file/d/1U759v2bicNlbwQVgDNw0Pmf-AoG_tzVt/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1pX1ZvcAfVRwrh3ADFLlB9TbhNJ63SKyA/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,4 +63,4 @@ slides: ""
 Click the *Cite* button above to cite this paper.
 {{% /callout %}}
 
-{{< gdocs src="https://drive.google.com/file/d/1U759v2bicNlbwQVgDNw0Pmf-AoG_tzVt/preview" >}}
+{{< gdocs src="https://drive.google.com/file/d/1pX1ZvcAfVRwrh3ADFLlB9TbhNJ63SKyA/preview" >}}

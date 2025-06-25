@@ -2,11 +2,11 @@
 title: "Intelligent Highways and Separate Lanes: To Decrease the High Accident Frequency of Autonomous Vehicles on California Highways"
 authors:
 - BoPang
-date: "2025-07-01T00:00:00Z"
+date: "2025-06-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-01T00:00:00Z"
+publishDate: "2025-06-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://drive.google.com/file/d/1pX1ZvcAfVRwrh3ADFLlB9TbhNJ63SKyA/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1U759v2bicNlbwQVgDNw0Pmf-AoG_tzVt/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,4 +63,4 @@ slides: ""
 Click the *Cite* button above to cite this paper.
 {{% /callout %}}
 
-{{< gdocs src="https://drive.google.com/file/d/1pX1ZvcAfVRwrh3ADFLlB9TbhNJ63SKyA/preview" >}}
+{{< gdocs src="https://drive.google.com/file/d/1U759v2bicNlbwQVgDNw0Pmf-AoG_tzVt/preview" >}}

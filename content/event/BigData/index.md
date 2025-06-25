@@ -19,8 +19,8 @@ We organize conferences by offering best platform to all academicians, researche
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-04-13T13:00:00Z'
-date_end: '2026-04-14T15:00:00Z'
+date: '2026-04-13'
+date_end: '2026-04-14'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
