@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 
 
-summary: Join your data & analytics peers from Dallas as you discover the latest trends and challenges facing your role
+summary: "Join your data & analytics peers from Dallas as you discover the latest trends and challenges facing your role"
 abstract: 'CDAO Dallas brings together a senior data & analytics community for a day of learning, networking, and collaboration. Whether you are new to data & analytics or a seasoned leader, you will leave our event with insights and takeaways that will guide you and your team to success throughout 2025.'
 
 # Talk start and end times.

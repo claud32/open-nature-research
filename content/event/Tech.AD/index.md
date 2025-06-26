@@ -12,7 +12,7 @@ address:
   postcode: '48126'
   country: United States
 
-summary: L2+ Automated Driving & Autonomous Vehicle Technologies
+summary: "L2+ Automated Driving & Autonomous Vehicle Technologies"
 abstract: 'Tech.AD is an award-winning global event series for OEMs, Tier 1 suppliers, and the entire supply chain working on ADAS and L2+ vehicle automation challenges. Be part of the leading autonomous driving race in the USA! As North America's premier knowledge exchange platform, Tech.AD brings together over 250 key players driving advancements in vehicle automation. This year’s focus includes testing and validation, sensor fusion, deep learning, safety-critical systems, computer vision, software architecture, and more.'
 
 # Talk start and end times.
