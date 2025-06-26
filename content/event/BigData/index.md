@@ -7,10 +7,10 @@ event_url: https://datascience-machinelearning.averconferences.com/
 location: Orlando, FL, USA
 address:
   street: 
-  city: Orlando
-  region: FL
+  city: 
+  region: 
   postcode: ''
-  country: United States
+  country: 
 
 summary: Big Data & Machine Learning in unique & innovative ways
 abstract: 'On behalf of the Organizing Committee, we are ecstatic to invite you to “5th Tech Summit on Big Data, Data Science & Machine Learning”.
@@ -21,7 +21,7 @@ We organize conferences by offering best platform to all academicians, researche
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-04-13'
 date_end: '2026-04-14'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-06-25T16:27:00Z'

@@ -4,7 +4,7 @@ title: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025
 event: CVPR
 event_url: https://cvpr.thecvf.com/Conferences/2025
 
-location: Music City Center, Nashville TN
+location: Music City Center, TN, USA
 address:
   street: 201 Rep. John Lewis Way S 
   city: Nashville
